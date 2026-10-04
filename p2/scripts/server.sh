@@ -1,5 +1,4 @@
 #!/bin/bash
-# //on installe tout ce qui faut dans la vm
 set -e
 
 export INSTALL_K3S_EXEC="server \
