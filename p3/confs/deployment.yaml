@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: iot-app
-        image: nmartindock/iot-app:v2
+        image: nmartindock/iot-app:v1
         ports:
         - containerPort: 8888
 
